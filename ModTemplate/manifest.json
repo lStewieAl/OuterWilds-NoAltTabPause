@@ -1,8 +1,8 @@
 {
-  "filename": "ModTemplate.dll",
-  "author": "Raicuparta",
-  "name": "Mod Template",
-  "uniqueName": "Raicuparta.ModTemplate",
+  "filename": "RunInBackground.dll",
+  "author": "lStewieAl",
+  "name": "Run In Background",
+  "uniqueName": "lStewieAl.RunInBackground",
   "version": "0.1.0",
   "owmlVersion": "2.0.0"
 }
